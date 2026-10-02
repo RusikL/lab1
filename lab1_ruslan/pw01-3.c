@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Руслан\t(11)\nИВ-622\tPC622\t(17)\n");
+    printf("Руслан\tИВ-622\t(17)\nuserRuslan\t(14)\n");
     return 0;
 }
